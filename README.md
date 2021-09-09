@@ -1,7 +1,7 @@
 
 
 # Introduction:  
-As we know that world is facing huge crisis of water. There is scarcity of drinkable water. Beside that in India the reliability of water heavily depends upon the wells, ponds etc. This has triggered the crisis. The aim of this project is to analyse the dataset that I received form my Prof. A.B (ISI Kolkata) and analysis of missing features and a solution to impute the missing values
+As we know that world is facing huge crisis of water. There is scarcity of drinkable water. Beside that in India the reliability of water heavily depends upon the wells, ponds etc. This has triggered the crisis. The aim of this project is to analyse the dataset that I received form my Prof. A.B (ISI Kolkata) and analysis of missing features and a solution to impute the missing values and find the riskiness of well i.e. the wells which are more prone to scarcity. Before finding out the riskiness of the well, I have performed data preprocessing , ANOVA is perforfomed , Visualization, Imputataion , Trend Analysis these steps have been performed .
 
 ![Indian Map](https://user-images.githubusercontent.com/22790745/132087350-3e5269f9-fed2-410b-9c9d-ddf38582e5db.png)
 
