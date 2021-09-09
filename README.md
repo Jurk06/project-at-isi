@@ -1,5 +1,4 @@
 
-![# Content](https://user-images.githubusercontent.com/22790745/132087126-54d6ad4e-b42c-4ff6-ace8-23bc1b8980ce.png)
 
 # Introduction:  
 As we know that world is facing huge crisis of water. There is scarcity of drinkable water. Beside that in India the reliability of water heavily depends upon the wells, ponds etc. This has triggered the crisis. The aim of this project is to analyse the dataset that I received form my Prof. A.B (ISI Kolkata) and analysis of missing features and a solution to impute the missing values
