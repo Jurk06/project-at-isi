@@ -13,5 +13,6 @@ The dataset is of csv format, pandas library helps to read the csv dataset. Besi
 ![Dataset](https://user-images.githubusercontent.com/22790745/132087281-326390bf-ef10-485c-870e-4483c37f0808.png)
 
 
-
+# [ANOVA Analysis](https://www.kaggle.com/jurk06/one-way-anova-analysis) 
+It is perfomed in order to get that the significant difference between the independent variables and the featurs. Here I have performed One-way analysis as there is only one independent features we have.
 
