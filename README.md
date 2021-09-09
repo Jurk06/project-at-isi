@@ -16,3 +16,18 @@ The dataset is of csv format, pandas library helps to read the csv dataset. Besi
 # [ANOVA Analysis](https://www.kaggle.com/jurk06/one-way-anova-analysis) 
 It is perfomed in order to get that the significant difference between the independent variables and the featurs. Here I have performed One-way analysis as there is only one independent features we have.
 
+# [Visualization](https://www.kaggle.com/jurk06/indian-map#Well-depth-Analysis) 
+The main job here is to plotting the different wells on India map. Since latitute and logitude of all the wells are given in the dataset. I have done the plotting work in th notebook. Bisede that we can see the visualization of the other features as well.
+
+# Missing Values-  AS we can see that due to some reason we can see the missing value is in great number. So before analysis we need to impute those misssing values based on the distribution of the 
+
+
+# [Multiple Imputation](https://rabkumarisinghisikolkata.medium.com/visualization-and-multiple-imputation-734b9e73f2b2)
+Here I have mention the technique that will impute the missing value. You can read my blog here in order to understand the whole process behind the imputation and why I have taken this imputation as one of the best before procedding teh modelling .
+
+# [Trend Analysis](https://www.kaggle.com/jurk06/trends-analysis):
+Since I have performed the trend analysis as the year is mentioned and as per the year the depth of water table is mentioned. Since I have done the ananlysisn and find out how th eimputatiion works. Though I have mentioned on my blog and also mentiond the conclusion.
+
+
+# Clustering 
+After the imputation the main aim is to find the different cluister of the of all well with the given well depth. The cluster can be analysed with defferent range of well depth. The objective is to make sure or identify the well which have the more the depth. 
