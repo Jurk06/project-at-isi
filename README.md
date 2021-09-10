@@ -26,6 +26,7 @@ Here I have mention the technique that will impute the missing value. You can re
 Since I have performed the trend analysis as the year is mentioned and as per the year the depth of water table is mentioned. Since I have done the ananlysisn and find out how th eimputatiion works. Though I have mentioned on my blog and also mentiond the conclusion.
 
 
-#  !Clustering (https://user-images.githubusercontent.com/22790745/132703719-c9dfb3e8-a56f-45d9-a700-ab5f5c18b28c.png)
+#  Clustering ![image](https://user-images.githubusercontent.com/22790745/132794271-830acbb9-bab7-4cb0-9ec1-7ce370396850.png)
+
 
 After the imputation the main aim is to find the different cluister of the of all well with the given well depth. The cluster can be analysed with defferent range of well depth. The objective is to make sure or identify the well which have the more the depth. 
