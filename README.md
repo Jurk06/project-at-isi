@@ -18,7 +18,7 @@ It is perfomed in order to get that the significant difference between the indep
 # [Visualization](https://www.kaggle.com/jurk06/indian-map#Well-depth-Analysis) 
 The main job here is to plotting the different wells on India map. Since latitute and logitude of all the wells are given in the dataset. I have done the plotting work in th notebook. Bisede that we can see the visualization of the other features as well.
 
-# Missing Values-  AS we can see that due to some reason we can see the missing value is in great number. So before analysis we need to impute those misssing values based on the distribution of the 
+ **Missing Values-**  AS we can see that due to some reason we can see the missing value is in great number. So before analysis we need to impute those misssing values based on the distribution of the 
 
 
 # [Multiple Imputation](https://rabkumarisinghisikolkata.medium.com/visualization-and-multiple-imputation-734b9e73f2b2)
