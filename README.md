@@ -33,3 +33,6 @@ Since I have performed the trend analysis as the year is mentioned and as per th
 
 
 After the imputation the main aim is to find the different cluister of the of all well with the given well depth. The cluster can be analysed with defferent range of well depth. The objective is to make sure or identify the well which have the more the depth. 
+
+# [Clustering 2](https://colab.research.google.com/drive/1qAO2AvGzeaz2ozA63z8BkLNZw1-mfiUF?usp=sharing)
+
