@@ -10,6 +10,9 @@ permalink: /visualization/
 
 This section showcases the geographic analysis of water wells across India. Using latitude and longitude coordinates from the dataset, wells are plotted on the Indian administrative map to visualize spatial distribution and identify regional patterns.
 
+![Well location sample from the dataset]({{ site.baseurl }}/images/image01.png)
+*Figure: Sample image loaded from the project's `images` folder to provide additional analytic context.*
+
 ## Key Visualizations
 
 ### 1. Well Distribution Map

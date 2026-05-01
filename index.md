@@ -9,6 +9,9 @@ title: Water Well Riskiness Analysis
 
 This project analyzes the **riskiness of wells across different states of India** to identify which wells are most prone to water scarcity. As the world faces a severe water crisis, understanding the reliability of water sources is critical—especially in India where wells are a primary source of drinkable water.
 
+![Water well risk analysis visualization]({{ site.baseurl }}/images/image01.png)
+*Figure: Example visualization from the `images` folder with additional context for the analysis.*
+
 ### Key Objectives
 - Identify high-risk wells prone to water scarcity
 - Analyze water table depth trends across Indian states
