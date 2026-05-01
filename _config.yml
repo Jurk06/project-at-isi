@@ -9,7 +9,7 @@ plugins:
 
 # Site Settings
 baseurl: /project-at-isi
-url: https://jurk06.github.io
+url: https://rabikumarsingh.github.io
 permalink: /:title/
 
 # Build Settings
