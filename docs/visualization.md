@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Visualization & Geographic Analysis
 permalink: /visualization/
 ---

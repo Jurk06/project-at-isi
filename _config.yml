@@ -1,13 +1,10 @@
 # Jekyll Configuration for GitHub Pages
 title: Water Well Riskiness Analysis
-description: Analysis of water well riskiness across different states of India
+description: Analysis of water well riskiness across different states of India — ISI Kolkata
 author: Rab Kumari Singh
-email: your-email@example.com
 
 # GitHub Pages Settings
-remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag
 
 # Site Settings

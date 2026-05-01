@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Trend Analysis
 permalink: /trends/
 ---
