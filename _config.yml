@@ -1,0 +1,27 @@
+# Jekyll Configuration for GitHub Pages
+title: Water Well Riskiness Analysis
+description: Analysis of water well riskiness across different states of India
+author: Rab Kumari Singh
+email: your-email@example.com
+
+# GitHub Pages Settings
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Site Settings
+baseurl: /project-at-isi
+url: https://jurk06.github.io
+permalink: /:title/
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: <!--more-->
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:name/

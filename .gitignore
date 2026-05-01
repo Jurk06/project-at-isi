@@ -1,0 +1,48 @@
+# Ruby
+.bundle/
+.ruby-version
+Gemfile.lock
+
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Node
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Python
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (optional - remove if you want to commit)
+*.csv
+*.xlsx
+*.dbf
+*.shp
+*.shx
+*.prj
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Local environment
+.env
+.env.local
